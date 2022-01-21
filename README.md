@@ -1,5 +1,5 @@
 # SMEAC
-A framework for rapid problem-solving.
+A framework for executing rapid problem-solving.
 
 ### Situation
 Assess the situation.  Execute the following as needed.
