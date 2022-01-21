@@ -15,7 +15,7 @@ Align the mission with stakeholders to provide a clear sight-picture.
 
 ### Execution
 The project plan from start to finish.
-1. Agile, waterfall, or hybid?
+1. Agile, waterfall, or hybrid?
 2. Define responsible parties: Executive Sponsor, Leader, Technical Subject Matter Experts.
 
 ### Administration and Logistics
