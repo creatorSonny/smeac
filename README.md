@@ -1,5 +1,5 @@
 # SMEAC
-A framework for executing rapid problem-solving.
+A framework for executing rapid problem-solving which is a spin off of the US Marine Corps operational planning report.
 
 ### Situation
 Assess the situation.  Execute the following as needed.
