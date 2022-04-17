@@ -24,10 +24,9 @@ Beans, bullets, band-aids, and bad-guys.
 2. Align on Time Commitment - Yours and any team member, especially if they are cross-functional assets.
 3. Define prerequisites.  Specialized skill-set, knowledge, or certification?
 4. Agreements: SLA, Risk Acceptance, Third-Party, etc.
-5. Communication Plan.
-6. Use a stakeholder map to to aid in communication plan.
-7. Determine where project documentation including reports will be hosted.
-8. Develop leading and lagging indicators.
+5. Use a stakeholder map to to aid in communication plan.
+6. Determine where project documentation including reports will be hosted.
+7. Develop leading and lagging indicators.
 
 ### Command and Signal
 Prepare for the worst.
