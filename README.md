@@ -16,7 +16,7 @@ Align the mission with stakeholders to provide a clear sight-picture.
 ### Execution
 The project plan from start to finish.
 1. Agile, waterfall, or hybrid?
-2. Define responsible parties: Executive Sponsor, Leader, Technical Subject Matter Experts.
+2. Define responsible parties: Organation or Group within the company, Executive Sponsor, Leader, Technical Subject Matter Experts.
 
 ### Administration and Logistics
 Beans, bullets, band-aids, and bad-guys.
@@ -24,12 +24,13 @@ Beans, bullets, band-aids, and bad-guys.
 2. Align on Time Commitment - Yours and any team member, especially if they are cross-functional assets.
 3. Define prerequisites.  Specialized skill-set, knowledge, or certification?
 4. Agreements: SLA, Risk Acceptance, Third-Party, etc.
-5. Use a stakeholder map to to aid in communication plan.
-6. Determine where project documentation including reports will be hosted.
-7. Develop leading and lagging indicators.
+5. Communication Plan.
+6. Use a stakeholder map to to aid in communication plan.
+7. Determine where project documentation including reports will be hosted.
+8. Develop leading and lagging indicators.
 
 ### Command and Signal
-Expect the worst.
+Prepare for the worst.
 1. Identify team and their individual roles.
 2. Succession planning - when your gone or away who is in charge?
 3. Clearly articulate the latitude for decision-making within the team and define what circumstances will lead to raising the flag.
